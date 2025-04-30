@@ -1,6 +1,8 @@
 # Membership-and-Rewards-System-AddOn
 Membership and Rewards System Add-OnMembership Reward System is a add-on page for items here where user can singup, login and retrieve their game data, redeem rewards with the available game points
-[membership_bg.jpg.9983c88b75df3b8f778c2779d414c967.jpg](https://www.ama.pub/uploads/monthly_2025_04/membership_bg.jpg.9983c88b75df3b8f778c2779d414c967.jpg)
+https://www.ama.pub/uploads/monthly_2025_04/membership_bg.jpg.9983c88b75df3b8f778c2779d414c967.jpg
+<img class="ipsImage ipsImage_thumbnailed" data-fileid="616" data-ratio="50.85" width="590" alt="membership_bg.jpg.9983c88b75df3b8f778c2779d414c967.jpg" data-src="https://www.ama.pub/uploads/monthly_2025_04/membership_bg.jpg.9983c88b75df3b8f778c2779d414c967.jpg" src="https://www.ama.pub/uploads/monthly_2025_04/membership_bg.jpg.9983c88b75df3b8f778c2779d414c967.jpg" style="height: auto;" data-loaded="true">
+
 Membership Reward System is a add-on page for items here where user can singup, login and retrieve their game data, redeem rewards with the available game points, the add-ons include following:
 
 Signup : Register as new member to play the game
